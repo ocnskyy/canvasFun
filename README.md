@@ -1,10 +1,2 @@
-# Работа с Canvas
-
-Все файлы были созданы около двух лет назад, первое знакомство с канвасом с помощью статей на Хабре.
-
-### [Демонстрация](http://ocnskyy.github.io/canvasFun/)
-
-### Установка
-```sh
-$ git clone https://github.com/ocnskyy/canvasFun.git
-```
+# Canvas Games
+Inspired by https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript
